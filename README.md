@@ -74,4 +74,4 @@ Plain ChromeOS cannot run local scripts. Enable the Linux (Crostini) container i
 
 ## License
 
-MIT (add a `LICENSE` file). Use at your own risk; review the dry-run report before running with execute.
+Licensed under the MIT License. See the [LICENSE](LICENSE) file for the full text. Use at your own risk, and review the dry-run report before running with execute.
